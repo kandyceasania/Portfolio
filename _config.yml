@@ -2,6 +2,6 @@ title: Kandyce Houston
 description: Senior Software Engineer by day | Artificial Intelligence Student by night
 remote_theme: pages-themes/architect@v0.2.0
 baseurl: "" # the subpath of your site, e.g. /blog
-# url: # the base hostname & protocol for your site
+url: # the base hostname & protocol for your site
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
