@@ -1,5 +1,19 @@
+# Site settings
 title: Kandyce Houston
-description: Senior Software Engineer by day | Artificial Intelligence Student by night
-remote_theme: pages-themes/architect@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+email: kandyceburks@gmail.com
+description: Senior SWE | AI/ML Grad Student
+baseurl: ""
+url: ""
+author: Kandyce Houston
+
+icon: fa-joomla # Font Awesome class for your site's icon
+
+# Social settings
+github_url: https://github.com/kandycehouston
+linkedin_url: https://www.linkedin.com/in/kandyceburks/
+
+# Build settings
+markdown: kramdown
+
+sass:
+style: compressed
